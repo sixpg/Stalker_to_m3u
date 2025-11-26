@@ -10,12 +10,12 @@
 
 // ============ ⚙ CONFIGURATION ============
 const config = {
-    host: 'jiotv.be', 
-    mac_address: '00:1A:79:97:55:B9',
-    serial_number: '500482917046B', 
-    device_id: 'B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66', 
-    device_id_2: 'B8F453DCDAEE02318C9FA912D9E409EE96B75AE592A70B526AA84478533C0A66', 
-    stb_type: 'MAG250', 
+    host: '89.187.191.54', 
+    mac_address: '00:1A:79:00:8D:D6',
+    serial_number: '19BCBDCE57077', 
+    device_id: '220170B2D001FF0A8B491F956AEFE35AE00772743402E3432788C6A53AA1638C', 
+    device_id_2: '1540407FAA3D1FF926F810E171D7D77206567BF8BB9176C22584BB775241961A', 
+    stb_type: 'MAG270', 
     api_signature: '263', 
 };
 
