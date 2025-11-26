@@ -1,13 +1,3 @@
-// Stalker-Portal To M3U Generator Script
-// Created by: @tg_aadi 
-// Telegram: https://t.me/tg_aadi
-// This script is free for everyone to use
-// If you encounter issues, check the console logs for debug information
-
-// ⚙ INSTRUCTIONS FOR USERS ⚙
-// Update the 'config' object below with your Stalker-Portal details
-// Access the generated M3U playlist by visiting: <your-deployment-url>/playlist.m3u8
-
 // ============ ⚙ CONFIGURATION ============
 const config = {
     host: '89.187.191.54', 
